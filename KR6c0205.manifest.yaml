@@ -1,0 +1,210 @@
+canonical_identifier: bkk:krp/KR6c0205/v1
+canonical_location: https://kanripo.org/bkk/KR6c0205/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 仁王護國般若波羅蜜經疏神寶記
+  identifiers:
+    alt_id:
+    - T33n1706
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T33/T33n1706.xml
+    old_id: T33n1706
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0205_000.yaml, hash: 'sha256:45fdab65aec570616ebcf423a1567f8fdaeb85f8186793a0307353824c2f5737'}
+  - {seq: 1, filename: KR6c0205_001.yaml, hash: 'sha256:dd3f7eb506504fc611d09a94175915a56756b58e71f93033fc79abc68baf1c67'}
+  - {seq: 2, filename: KR6c0205_002.yaml, hash: 'sha256:c9742d18e5b75a21df5cb2c2a5650297ca45cab0707b5ae419da614c116570e9'}
+  - {seq: 3, filename: KR6c0205_003.yaml, hash: 'sha256:fdbff5c353ecb789ba643a02a228aad05e9dda1c71a7faee2d874b84d2dc24ab'}
+  - {seq: 4, filename: KR6c0205_004.yaml, hash: 'sha256:d1ac3c7256bacab3c6ef840e8515f679cd0220ee9a564ac2afa1b908385f2b2b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0205_000.markers.yaml, hash: 'sha256:650cfc71b19ed0aa77904b04394126bb83f14c3ab4090143afed2e43a34ae109'}
+  - {seq: 1, role: markers, filename: assets/KR6c0205_001.markers.yaml, hash: 'sha256:48062753b3857f9a5fa43fde435e69ed85c217b99d7ef78555b9ad8ff9b31926'}
+  - {seq: 2, role: markers, filename: assets/KR6c0205_002.markers.yaml, hash: 'sha256:69f5fd909e5d73ae7e53bc91e2f95c9faa3d98fefbbbbcd9b7c349bba2c99035'}
+  - {seq: 3, role: markers, filename: assets/KR6c0205_003.markers.yaml, hash: 'sha256:561d4b5f935a616189b53fa01ff8e8c58ac4b4830bab76e5fc5a74ab5fbf51ed'}
+  - {seq: 4, role: markers, filename: assets/KR6c0205_004.markers.yaml, hash: 'sha256:83bfae24f9d3331d889516ac739c7587c5d4befa81045ce17d99b9ca5991959a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0205_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 仁王護國般若經疏神寶記序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0205_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7210
+  label: '佛說仁王護國般若波羅蜜經疏
+
+    神寶記卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0205_T_001-mulu-1
+    span:
+    - body
+    - 5174
+    - 5174
+  label: 釋序品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0205_T_001-mulu-2
+    span:
+    - body
+    - 5174
+    - 5174
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6c0205_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7407
+  label: '佛說仁王護國般若波羅蜜經疏
+
+    神寶記卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0205_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 13885
+  label: '佛說仁王護國般若波羅蜜經疏
+
+    神寶記卷第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0205_T_003-mulu-1
+    span:
+    - body
+    - 2346
+    - 2346
+  label: 釋觀空品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0205_T_003-mulu-2
+    span:
+    - body
+    - 6710
+    - 6710
+  label: 釋菩薩教化品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6c0205_T_003-mulu-3
+    span:
+    - body
+    - 6710
+    - 6710
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0205_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 11923
+  label: '佛說仁王護國般若波羅蜜經疏
+
+    神寶記卷第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0205_T_004-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: '2'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0205_T_004-mulu-2
+    span:
+    - body
+    - 3326
+    - 3326
+  label: 釋二諦品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0205_T_004-mulu-3
+    span:
+    - body
+    - 5870
+    - 5870
+  label: 釋護國品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0205_T_004-mulu-4
+    span:
+    - body
+    - 7921
+    - 7921
+  label: 釋散花品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0205_T_004-mulu-5
+    span:
+    - body
+    - 8646
+    - 8646
+  label: 釋受持品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6c0205_T_004-mulu-6
+    span:
+    - body
+    - 11405
+    - 11405
+  label: 釋囑累品
+  type: mulu
+  level: 1
+hash: sha256:3bea2a67a9087eb23905053ff4fb018a75318e6d22ebdea9c482b77cb8734590
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
