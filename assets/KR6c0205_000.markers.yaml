@@ -50,9 +50,11 @@ markers:
   - {type: punctuation, offset: 74, content: 、, id: KR6c0205_T_000-bkkpn36}
   - {type: line-break, offset: 80, content: '', id: KR6c0205_T_000-0286a20, ed: T, 'n': 0286a20}
   - {type: punctuation, offset: 81, content: ，, id: KR6c0205_T_000-bkkpn37}
+  - {type: substitution, offset: 81, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: punctuation, offset: 95, content: 。, id: KR6c0205_T_000-bkkpn38}
   - {type: line-break, offset: 97, content: '', id: KR6c0205_T_000-0286a21, ed: T, 'n': 0286a21}
   - {type: punctuation, offset: 107, content: ，, id: KR6c0205_T_000-bkkpn39}
+  - {type: substitution, offset: 111, original: 寔, replacement: 實, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16799}}
   - {type: punctuation, offset: 115, content: ，, id: KR6c0205_T_000-bkkpn40}
   - {type: line-break, offset: 115, content: '', id: KR6c0205_T_000-0286a22, ed: T, 'n': 0286a22}
   - {type: punctuation, offset: 121, content: ，, id: KR6c0205_T_000-bkkpn41}
@@ -68,6 +70,7 @@ markers:
   - {type: punctuation, offset: 158, content: ，, id: KR6c0205_T_000-bkkpn49}
   - {type: punctuation, offset: 165, content: 。, id: KR6c0205_T_000-bkkpn50}
   - {type: line-break, offset: 166, content: '', id: KR6c0205_T_000-0286a25, ed: T, 'n': 0286a25}
+  - {type: substitution, offset: 169, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 171, content: ，, id: KR6c0205_T_000-bkkpn51}
   - {type: punctuation, offset: 175, content: ，, id: KR6c0205_T_000-bkkpn52}
   - {type: punctuation, offset: 180, content: ：, id: KR6c0205_T_000-bkkpn53}
@@ -115,4 +118,4 @@ markers:
   - {type: line-break, offset: 274, content: '', id: KR6c0205_T_000-0286b05, ed: T, 'n': 0286b05}
   body: []
   back: []
-hash: sha256:f3093bd5bdbaf6d278a01b167f19419f00f1f92ef4e948ee4c80c722d374fefa
+hash: sha256:aeaa6fdc77f48bf8730a2645cc2d510c722d4f0a05255df9dd2e2efefd614d7d
