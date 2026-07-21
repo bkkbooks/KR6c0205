@@ -19,13 +19,13 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6c0205_000-T.yaml, hash: 'sha256:8906d0d0da2ea6ba71895027205870ee09801c68545375619849ca8c2a0574a7'}
+  - {seq: 0, filename: KR6c0205_000-T.yaml, hash: 'sha256:7f15d7928053c3150734645ec418330e45029a5bb6354d5caa42d71c8a039add'}
   - {seq: 1, filename: KR6c0205_001-T.yaml, hash: 'sha256:ca9424d432d4cb3a991cd709832e9f14aed07073598631d0e1979d9b206987ef'}
   - {seq: 2, filename: KR6c0205_002-T.yaml, hash: 'sha256:f0cefcab3c27a8de89f3f5c05643af1aedebc0db522b69d122b6aa67742d361c'}
   - {seq: 3, filename: KR6c0205_003-T.yaml, hash: 'sha256:c204ee0ccaa8dc753c8b0179c3943c02253a14e03d6c912c7732ff87f48a5907'}
   - {seq: 4, filename: KR6c0205_004-T.yaml, hash: 'sha256:d26954e71ad7c657c5197e42988e6802b5d446f2787c60ea037ec7470d1d0b42'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0205_000-T.markers.yaml, hash: 'sha256:e38275fd7d8486de9ffc6797defbd68b53e428c67e7c02799185e08c861d5f8f'}
+  - {seq: 0, role: markers, filename: assets/KR6c0205_000-T.markers.yaml, hash: 'sha256:3efb82809024e7cbf3b3cba092be5d76fd2790b954640525380ee7191d2e0f82'}
   - {seq: 1, role: markers, filename: assets/KR6c0205_001-T.markers.yaml, hash: 'sha256:fee1b6c6c9c34b28c15d0d3249180cffd265ad9c4cdac6ad57ae21f8a1a917e7'}
   - {seq: 2, role: markers, filename: assets/KR6c0205_002-T.markers.yaml, hash: 'sha256:bb9802ce127fd691d82cd2dd8e952382a2452aa4ea96fcf792e25c3260772adc'}
   - {seq: 3, role: markers, filename: assets/KR6c0205_003-T.markers.yaml, hash: 'sha256:f233894d4c5f8926601327cbf7e97000ed62e1acd0ff41b4266d438cb20c4881'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0205_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 仁王護國般若經疏神寶記序
@@ -199,4 +199,4 @@ table_of_contents:
   label: 釋囑累品
   type: mulu
   level: 1
-hash: sha256:8415adc5fd6c8d9223121c07179693abc106bac4a04cbef8b821119694e7d8c7
+hash: sha256:e51a2b6b1ce4dddd2b6ada8becdd9079e87a94b4402bc8a86e66cfcbafcbfb11

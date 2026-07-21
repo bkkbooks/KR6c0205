@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6c0205/bkk/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: line-break, offset: 0, content: '', id: KR6c0205_T_000-0286a11, ed: T, 'n': 0286a11}
   - {type: line-break, offset: 0, content: '', id: KR6c0205_T_000-0286a12, ed: T, 'n': 0286a12}
   - {type: line-break, offset: 0, content: '', id: KR6c0205_T_000-0286a13, ed: T, 'n': 0286a13}
@@ -116,6 +116,5 @@ markers:
   - {type: line-break, offset: 274, content: '', id: KR6c0205_T_000-0286b03, ed: T, 'n': 0286b03}
   - {type: line-break, offset: 274, content: '', id: KR6c0205_T_000-0286b04, ed: T, 'n': 0286b04}
   - {type: line-break, offset: 274, content: '', id: KR6c0205_T_000-0286b05, ed: T, 'n': 0286b05}
-  body: []
   back: []
-hash: sha256:aeaa6fdc77f48bf8730a2645cc2d510c722d4f0a05255df9dd2e2efefd614d7d
+hash: sha256:91aa9b7208b1162d215c6ab9c6975bc84e6c2d0efdec51d68044fd151130953a
